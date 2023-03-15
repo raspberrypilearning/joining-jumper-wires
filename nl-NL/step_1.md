@@ -1,11 +1,11 @@
-You might need extra-long wires to attach your component (for example LED, button, or buzzer) to your Raspberry Pi pins. You can do this by 'daisy chaining' wires together. For instance, to make an extra-long socket-socket wire, you can attach an pin-socket wire to a socket-socket wire.
+Je hebt mogelijk extra lange draden nodig om je component te bevestigen (bijvoorbeeld LED, knop of zoemer) aan je Raspberry Pi-pinnen. Dit doe je door draden aan elkaar te verbinden met een zogenaamde 'daisy chain' techniek'. Om bijvoorbeeld een extra lange bus-bus draad te maken, bevestig je een pin-bus draad aan een bus-bus verbindingsdraad.
 
-**Tip:** keep the colour of the wire the same to make it easier to follow fro the component to the Raspberry Pi pin.
+**Tip:** houd de kleur van de draad hetzelfde zodat je gemakkelijk kan zien welke draad aan welke Raspberry Pi pin is verbonden.
 
-![A pin-socket wire from the Raspberry Pi and a socket-socket wire from the component.](images/daisy-chain-ends.JPG)
+![Een pin-bus draad uit de Raspberry Pi en een bus-bus draad uit het onderdeel.](images/daisy-chain-ends.JPG)
 
-![A pin-socket wire attached to a socket-socket wire connecting the Raspberry Pi and the component.](images/daisy-chain.JPG)
+![Een pin-bus draad die is bevestigd aan een bus-bus draad die de Raspberry Pi en het onderdeel verbindt.](images/daisy-chain.JPG)
 
-The problem with this method is that often the wires will become detached from each other. You can use a small piece of tape to secure the connection.
+Het probleem met deze methode is dat de draden vaak losraken. Je kunt een klein stukje tape gebruiken om de verbinding te verstevigen.
 
-![A pin-socket wire taped to a socket-socket wire.](images/tape-daisy-chain.JPG)
+![Een pin-bus draad vastgezet met een stukje tape aan een bus-bus draad.](images/tape-daisy-chain.JPG)
