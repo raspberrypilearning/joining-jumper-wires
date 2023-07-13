@@ -1,6 +1,6 @@
-Je hebt mogelijk extra lange draden nodig om je component te bevestigen (bijvoorbeeld LED, knop of zoemer) aan je Raspberry Pi-pinnen. Dit doe je door draden aan elkaar te verbinden met een zogenaamde 'daisy chain' techniek'. Om bijvoorbeeld een extra lange bus-bus draad te maken, bevestig je een pin-bus draad aan een bus-bus verbindingsdraad.
+Je hebt mogelijk extra lange draden nodig om je component te bevestigen (bijvoorbeeld LED, knop of zoemer) aan je Raspberry Pi-pinnen. Dit doe je door draden met elkaar te verbinden met een zogenaamde 'daisy chain' techniek'. Om bijvoorbeeld een extra lange bus-bus draad te maken, bevestig je een pin-bus draad aan een bus-bus verbindingsdraad.
 
-**Tip:** houd de kleur van de draad hetzelfde zodat je gemakkelijk kan zien welke draad aan welke Raspberry Pi pin is verbonden.
+**Tip:** houd de kleur van de draad hetzelfde zodat je gemakkelijk kunt zien welke draad aan welke Raspberry Pi pin is verbonden.
 
 ![Een pin-bus draad uit de Raspberry Pi en een bus-bus draad uit het onderdeel.](images/daisy-chain-ends.JPG)
 
